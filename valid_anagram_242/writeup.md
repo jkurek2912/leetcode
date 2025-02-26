@@ -3,7 +3,7 @@ https://leetcode.com/problems/valid-anagram/description/
 **Related**
 	[[1. Arrays and Hashing]]
 
-**Data Structures**
+**Data Structures**c
 	Hashmap
 
 **Solution**
