@@ -1,4 +1,4 @@
-https://leetcode.com/problems/valid-anagram/description/
+https://leetcode.com/problems/valid-anagram/
 
 **Data Structures**c
 	Hashmap
