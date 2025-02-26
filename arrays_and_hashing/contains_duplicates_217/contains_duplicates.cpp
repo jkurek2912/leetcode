@@ -13,8 +13,10 @@
 #include <chrono>
 #include <iomanip>
 
-bool containsDuplicate(std::vector<int>& nums) {
-    std::unordered_set<int> set;
+using namespace std;
+
+bool containsDuplicate(vector<int>& nums) {
+    unordered_set<int> set;
     for (int i = 0; i < nums.size(); i++) {
         if (set.find(nums[i]) != set.end()) {
             return true;

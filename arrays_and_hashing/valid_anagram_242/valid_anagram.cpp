@@ -13,12 +13,14 @@
 #include <chrono>
 #include <iomanip>
 
+using namespace std;
+
 class Solution {
     public:
-        bool isAnagram(std::string s, std::string t) {
+        bool isAnagram(string s, string t) {
             if (s.size() != t.size()) return false;
-            std::unordered_map<char, int> sMap;
-            std::unordered_map<char, int> tMap;
+            unordered_map<char, int> sMap;
+            unordered_map<char, int> tMap;
             for (int i = 0; i < s.size(); i++) {
                 sMap[s[i]]++;
             }
