@@ -1,8 +1,5 @@
 https://leetcode.com/problems/contains-duplicate/
 
-**Related**
-	[[1. Arrays and Hashing]]
-
 **Data Structures:** 
 	Set
 

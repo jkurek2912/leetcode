@@ -1,8 +1,5 @@
 https://leetcode.com/problems/two-sum/
 
-**Related**
-	[[1. Arrays and Hashing]]
-
 **Data Structures**
 	Hashmap
 
