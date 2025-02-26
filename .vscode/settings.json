@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.sql": "sqlite",
+        "unordered_map": "cpp"
+    }
+}
