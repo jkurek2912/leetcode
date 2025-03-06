@@ -3,7 +3,7 @@ https://leetcode.com/problems/product-of-array-except-self/
 **Data Structures**
 	Prefix/Postfix Array
 
-**Solution**
+**Solution**5
 	Create a result vector with size of the input vector
 	Store the prefix product of the input vector in the result vector
 	Then loop backwards over the result vector and multiply the prefix product by a postfix product
